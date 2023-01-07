@@ -1,0 +1,5 @@
+<?php
+
+    $a = 'Chau mundo';
+
+?>
